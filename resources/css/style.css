@@ -1,11 +1,15 @@
+
+
 body {
   font-family: Verdana;
+  background-color: black;
+  text-align: center;
 }
 
 h1 {
   font-weight: Normal;
   font-size: 50px;
-  color: black;
+  color: white;
   text-align: center;
   }
 
